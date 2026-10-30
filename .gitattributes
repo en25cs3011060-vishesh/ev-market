@@ -1,0 +1,12 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Binary files
+*.pdf binary
+*.twbx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.hyper binary
+*.db binary
